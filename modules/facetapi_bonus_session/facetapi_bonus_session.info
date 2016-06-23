@@ -1,0 +1,6 @@
+name = "Facet API Session"
+description = "Provide a session based Facet API URL Handler."
+core = 7.x
+dependencies[] = facetapi
+
+files[] = includes/facetapi/url_processor_session.inc
